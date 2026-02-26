@@ -117,6 +117,8 @@ http://localhost:3000
 ## 🔗 Deployed Link
 (Add your deployed link here)
 
+##Postman Documentation Link
+https://documenter.getpostman.com/view/50840965/2sBXcGDeft
 ---
 
 ## 👨‍💻 Auth
